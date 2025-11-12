@@ -1,0 +1,23 @@
+JIRA/
+retro-scrum/
+├── CMakeLists.txt
+├── cleandebugAgain.bat
+├── Include/
+│   ├── UIManager.hpp
+│   ├── DatabaseManager.hpp
+│   ├── TicketManager.hpp
+│   ├── SprintManager.hpp
+│   ├── UserManager.hpp
+│   ├── models.hpp
+│   └── ScrumJiraApp.hpp
+└── src/
+    ├── main.cpp
+    ├── UIManager.cpp
+    ├── DatabaseManager.cpp
+    ├── TicketManager.cpp
+    ├── SprintManager.cpp
+    ├── UserManager.cpp
+    └── ScrumJiraApp.cpp
+├── data/           # Project database files
+├── CMakeLists.txt
+└── README.md
